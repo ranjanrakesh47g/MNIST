@@ -13,7 +13,7 @@ It consisted of 60,000 train samples and 10,000 test samples, with 10 classes ra
 
 
 ## Model:
-A 5-layer convolutional neural network was designed as follows:
+A 4-layer convolutional neural network was designed as follows:
 2 convolutional layers, 1 dense layer and 1 output layer.
 
 Categorical crossentropy loss with adam optimizer was used.
